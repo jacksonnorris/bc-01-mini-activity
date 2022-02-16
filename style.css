@@ -1,0 +1,28 @@
+body {
+  background-color: antiquewhite;
+}
+a {
+  float: right;
+  padding: 10px;
+}
+header {
+  border-bottom: solid black 2px;
+  position: sticky;
+  top: 0;
+  background-color: aliceblue;
+  padding: 20px;
+  margin: -20px;
+}
+button {
+  display: block;
+  background-color: blueviolet;
+  color: blanchedalmond;
+  cursor: pointer;
+}
+label {
+  display: block;
+  padding: 10px;
+}
+#extraContent {
+  height: 5000px;
+}
